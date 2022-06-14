@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
 
-    <title>Stageof Padang</title>
+    <title>Wedding of Fifi & Eko</title>
 </head>
 
 <body>
